@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(0,38,62) !important;
+    color: white !important;
+}
+
+.navbar-brand
+{
+    margin: auto !important;
+}
+
+.navbar-brand > img {
+    background-color: white;
+}
+
+.flex{
+    width: 30rem;
+    margin: auto;
+}
+
+::placeholder{
+    color: white !important;
+}
+
+.container1{
+    width: 100% !important;
+    background-color: rgb(0,38,62) !important;
+}
+
+.weather-info{
+    border: 2px solid white;
+    width: 30rem;
+    margin: auto;
+    height: 75vh;
+    border-radius: 8px;
+}
+
+.data{
+    width: 20rem;
+    margin: auto;
+}
